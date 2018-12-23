@@ -1,4 +1,4 @@
 # WiredVisuals
 HAPPY HACKING
-13695 is Havij pro (add .rar) to the file name and extract. disable antivirus.
+disable antivirus when extracting and installing tools
 Password is WiredVisuals
